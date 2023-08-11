@@ -1,4 +1,5 @@
-class IncDec2 
+class IncDec3
+
 {
 	public static void main(String[] args) 
 	{
